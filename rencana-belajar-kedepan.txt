@@ -1,3 +1,4 @@
 1.Mengerti git dan github
 2.Mengerti PHP dan Golang
 3.Mengerti Framework
+4.Mengerti Nosql
